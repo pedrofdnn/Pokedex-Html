@@ -43,13 +43,32 @@ main {
 .pokemon_data {
     position: absolute;
     font-weight: 600;
-    top: 63%;
+    top: 64%;
     right: 25%;
     color: #aaa;
-    font-size: clamp(8px,5vw,25px);
+    font-size: clamp(8px, 5vw, 25px);
 }
 
 .pokemon_name {
     color: #3a444d;
     text-transform: capitalize;
+}
+
+.form {
+    position: absolute;
+    width: 72%;
+    top: 71%;
+    left: 10%;
+}
+
+.inpunt_search {
+    width: 100%;
+    padding: 2%;
+    outline: none;
+    border: 2px solid #333;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #3a444d;
+    font-size: clamp(8px, 5vw, 1rem);
+    box-shadow: -2px 3px 0 #888, -4px 6px 0 #333;
 }
