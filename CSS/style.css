@@ -62,7 +62,7 @@ main {
 }
 
 .inpunt_search {
-    width: 100%;
+    width: 90%;
     padding: 2%;
     outline: none;
     border: 2px solid #333;
@@ -84,7 +84,7 @@ main {
 }
 
 .button {
-    width: 50%;
+    width: 40%;
     padding: 4%;
     border: 2px solid #000;
     border-radius: 5px;
