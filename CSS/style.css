@@ -28,7 +28,7 @@ main {
 }
 
 .pokedex {
-    width: 100%;
+    width: 95%;
     max-width: 425px;
 }
 
@@ -37,7 +37,7 @@ main {
     bottom: 43%;
     left: 35.8%;
     transform: translate(-15%, 20%);
-    height: 16%;
+    height: 15%;
 }
 
 .pokemon_data {
@@ -56,9 +56,9 @@ main {
 
 .form {
     position: absolute;
-    width: 72%;
+    width: 65%;
     top: 71%;
-    left: 10%;
+    left: 14%;
 }
 
 .inpunt_search {
@@ -79,7 +79,7 @@ main {
     position: absolute;
     bottom: 7%;
     left: 51%;
-    width: 70%;
+    width: 68%;
     transform: translate(-57%, 0);
 }
 
